@@ -35,7 +35,7 @@ const menuMarkup = menu
           .join('')}
          </ul>
     </div>
-    <button class="card__button button"></button>
+    <button class="card__button button">Добавить в корзину</button>
   </article>
 </li>`;
   })
